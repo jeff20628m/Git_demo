@@ -2,3 +2,4 @@ hello git
 fix
 
 branch1
+branch2
